@@ -1,5 +1,8 @@
 # Ukraine Russia War Dataset:
 
+## Download:
+https://drive.google.com/file/d/1qzsU6IQqUup7-V5e7TxUvQ3CW1m4AH8Q/view?usp=sharing
+
 ## Requirement:
 igraph: 0.9.9, pandas 1.4.1 or higher.
 
